@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**🐱 My GitHub Data** 
+**🛡 My GitHub Data** 
 
 > 🏆 325 Contributions in the Year 2022
  > 
