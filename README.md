@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+**🐱 My GitHub Data** 
+
+> 🏆 325 Contributions in the Year 2022
+ > 
+> 📜 46 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515)]()
 
