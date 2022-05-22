@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently learning on my final Flutter course project
+- 🔭 I’m currently working on my final Flutter course project
 - 🌱 I’m currently learning Flutter Mobile Development
 - 👯 I’m looking to collaborate on making memes for developers 😁
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
