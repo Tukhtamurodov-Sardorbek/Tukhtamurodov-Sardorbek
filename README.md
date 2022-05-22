@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)
+
 **🛡 My GitHub Data** 
 
 > 🏆 325 Contributions in the Year 2022
