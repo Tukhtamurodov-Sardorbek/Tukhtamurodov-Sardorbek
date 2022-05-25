@@ -24,10 +24,11 @@
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)
 ![GitHub followers](https://img.shields.io/github/followers/Tukhtamurodov-Sardorbek?logo=GitHub&style=for-the-badge&color=02b200)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515" alt="Tukhtamurodov-Sardorbek" /></p>
-
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515)]()
+
+<p><src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515" alt="Tukhtamurodov-Sardorbek" /></p>
+
 
 ### `Languages & Tools`
 
