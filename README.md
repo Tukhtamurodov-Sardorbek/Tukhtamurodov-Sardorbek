@@ -1,27 +1,38 @@
 ![Flutter](https://github.com/Tukhtamurodov-Sardorbek/Tukhtamurodov-Sardorbek/blob/main/flutter.jpg?raw=true)
 <h1></h1>
 
-<h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
-- 🔭 I am currently working on the final project of my Flutter course
-- 🌱 I’m currently learning Flutter Mobile Development
-- 👯 I’m looking to collaborate on making memes for developers 😁
-- 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
-- 💬 Ask me about nothing, please. I don't want to bother my peaceful mind... 🤫🥱😴
-- 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **I love to sleep**
+<h4><details>	
+  <summary>Details</summary>
+  <br/>
+  <h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+  
+  - 🔭 I am currently working on the final project of my Flutter course
+  - 🌱 I’m currently learning Flutter Mobile Development
+  - 👯 I’m looking to collaborate on making memes for developers 😁
+  - 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
+  - 💬 Ask me about nothing, please. I don't want to bother my peaceful mind... 🤫🥱😴
+  - 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
+  - 😄 Pronouns: He/Him
+  - ⚡ Fun fact: **I love to sleep**
+  
+  <br/>
+  
+  **🛡 My GitHub Data** 
 
+  > 🏆 325 Contributions in the Year 2022
+   > 
+  > 📜 46 Public Repositories 
+   > 
+  > 🔑 2 Private Repositories  
+   > 
+  **I'm a Night 🦉** 
+ 
+  <br/>
+ 
+</details></h4>
 
-**🛡 My GitHub Data** 
-
-> 🏆 325 Contributions in the Year 2022
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
-**I'm a Night 🦉** 
+<br/>
 
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)
 ![GitHub followers](https://img.shields.io/github/followers/Tukhtamurodov-Sardorbek?logo=GitHub&style=for-the-badge&color=02b200)
