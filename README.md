@@ -3,7 +3,7 @@
 
 
 <h4><details>	
-  <summary>Details</summary>
+  <summary> Details</summary>
   <br/>
   <h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
   
