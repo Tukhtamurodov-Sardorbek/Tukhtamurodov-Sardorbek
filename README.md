@@ -1,5 +1,7 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+![Flutter](https://github.com/Tukhtamurodov-Sardorbek/Tukhtamurodov-Sardorbek/blob/main/flutter.jpg?raw=true)
+<h1></h1>
 
+<h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
 
 - 🔭 I am currently working on the final project of my Flutter course
 - 🌱 I’m currently learning Flutter Mobile Development
