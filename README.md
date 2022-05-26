@@ -34,8 +34,7 @@
 
 <br/>
 
-![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)
-![GitHub followers](https://img.shields.io/github/followers/Tukhtamurodov-Sardorbek?logo=GitHub&style=for-the-badge&color=02b200)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)                           ![GitHub followers](https://img.shields.io/github/followers/Tukhtamurodov-Sardorbek?logo=GitHub&style=for-the-badge&color=02b200)
 
 
 <!--
