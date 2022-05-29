@@ -6,8 +6,7 @@
   <summary> Details</summary>
   <br/>
   <h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-  
-  - 🎯 Goal: To become a Middle-level developer within a year
+
   - 🔭 I am currently working on the final project of my Flutter course
   - 🌱 I’m currently learning Flutter Mobile Development
   - 👯 I’m looking to collaborate on making memes for developers 😁
@@ -15,7 +14,8 @@
   - 💬 Ask me about nothing, please. I don't want to bother my peaceful mind... 🤫🥱😴
   - 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
   - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: **I love to sleep**
+  - ⚡ Fun fact: **I love to sleep**  
+  - 🎯 Goal: To become a Middle-level developer within a year
   
   <br/>
   
