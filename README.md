@@ -7,6 +7,7 @@
   <br/>
   <h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
   
+  - 🎯 Goal: To become a Middle-level developer within a year
   - 🔭 I am currently working on the final project of my Flutter course
   - 🌱 I’m currently learning Flutter Mobile Development
   - 👯 I’m looking to collaborate on making memes for developers 😁
@@ -20,11 +21,11 @@
   
   **🛡 My GitHub Data** 
 
-  > 🏆 325 Contributions in the Year 2022
+  > 🏆 397 Contributions in the Year 2022
    > 
-  > 📜 46 Public Repositories 
+  > 📜 48 Public Repositories 
    > 
-  > 🔑 2 Private Repositories  
+  > 🔑 3 Private Repositories  
    > 
   **I'm a Night 🦉** 
  
