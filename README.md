@@ -5,7 +5,7 @@
 <h4><details>	
   <summary> Details</summary>
   <br/>
-  <h3 align="left">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+  <h3 align="left">Hi there 👋🏻</h3>
 
   - 🔭 I am currently working on the final project of my Flutter course
   - 🌱 I’m currently learning Flutter Mobile Development
@@ -39,6 +39,8 @@
 
 
 <!--
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515" alt="Tukhtamurodov-Sardorbek" /></p>
 
 
