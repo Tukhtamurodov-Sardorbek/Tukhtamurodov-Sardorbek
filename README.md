@@ -21,11 +21,11 @@
   
   **🛡 My GitHub Data** 
 
-  > 🏆 397 Contributions in the Year 2022
+  > 🏆 1151 Contributions in the Year 2022
    > 
-  > 📜 48 Public Repositories 
+  > 📜 57 Public Repositories 
    > 
-  > 🔑 3 Private Repositories  
+  > 🔑 4 Private Repositories  
    > 
   **I'm a Night 🦉** 
  
