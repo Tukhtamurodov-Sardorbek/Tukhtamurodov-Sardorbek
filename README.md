@@ -15,17 +15,17 @@
   - 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: **I love to sleep**  
-  - 🎯 Goal: To become a Middle-level developer within a year
+  - 🎯 Goal: To become a Middle-level developer
   
   <br/>
   
   **🛡 My GitHub Data** 
 
-  > 🏆 1151 Contributions in the Year 2022
+  > 🏆 2,533 Contributions in the Year 2022
    > 
-  > 📜 57 Public Repositories 
+  > 📜 65 Public Repositories 
    > 
-  > 🔑 4 Private Repositories  
+  > 🔑 5 Private Repositories  
    > 
   **I'm a Night 🦉** 
  
