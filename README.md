@@ -23,9 +23,9 @@
 
   > 🏆 2,594 Contributions in the Year 2022
    > 
-  > 📜 65 Public Repositories 
+  > 📜 66 Public Repositories 
    > 
-  > 🔑 7 Private Repositories  
+  > 🔑 11 Private Repositories  
    > 
   **I'm a Night 🦉** 
  
