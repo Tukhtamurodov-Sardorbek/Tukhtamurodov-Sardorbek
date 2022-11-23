@@ -7,10 +7,10 @@
   <br/>
   <h3 align="left">Hi there 👋🏻</h3>
 
-  - 🔭 I am currently working on the final project of my Flutter course
-  - 🌱 I’m currently learning Flutter Mobile Development
+  - 🔭 I am currently working at Tenge Bank
+  - 🌱 I’m currently learning ...
   - 👯 I’m looking to collaborate on making memes for developers 😁
-  - 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
+  - 🤔 I’m looking for help with, meanwhile nothing 🚀 | Coming Soon 😉
   - 💬 Ask me about nothing, please. I don't want to bother my peaceful mind... 🤫🥱😴
   - 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
   - 😄 Pronouns: He/Him
@@ -21,11 +21,11 @@
   
   **🛡 My GitHub Data** 
 
-  > 🏆 2,594 Contributions in the Year 2022
+  > 🏆 2,377 Contributions in the Year 2022
    > 
-  > 📜 66 Public Repositories 
+  > 📜 74 Public Repositories 
    > 
-  > 🔑 11 Private Repositories  
+  > 🔑 12 Private Repositories  
    > 
   **I'm a Night 🦉** 
  
