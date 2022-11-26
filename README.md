@@ -15,7 +15,7 @@
   - 📫 How to reach me:  [Github](https://github.com/Tukhtamurodov-Sardorbek), [Instagram](https://www.instagram.com/sardonic777/), [Facebook](https://www.facebook.com/sardor.toxtamurodov.10/),
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: **I love to sleep**  
-  - 🎯 Goal: To become a Middle-level developer
+  - 🎯 Goal: To become a Strong Middle-level developer
   
   <br/>
   
