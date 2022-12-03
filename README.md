@@ -53,7 +53,7 @@
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tukhtamurodov-Sardorbek&theme=dark&background=000000)](https://git.io/streak-stats) | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-contribution-stats/"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Tukhtamurodov-Sardorbek" /></a> |
 | ------------- | ------------- |
 
-| <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a> |
+| <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a> |
 | ------------- | ------------- |
 
 
