@@ -47,10 +47,10 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515)]()
 -->
 
-<p align="center"> | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&include_all_commits=true&theme=buefy&hide_border=true" alt="Tukhtamurodov Sardorbek's GitHub Stats" /></a> | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&&theme=buefy&hide_border=true" /></a> | </p>
+<p align="center"> | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&include_all_commits=true&theme=buefy&hide_border=true" alt="Tukhtamurodov Sardorbek's GitHub Stats" /></a> | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p align="center"> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tukhtamurodov-Sardorbek&theme=dark&background=000000)](https://git.io/streak-stats) | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-contribution-stats/"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Tukhtamurodov-Sardorbek" /></a> | </p>
+| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tukhtamurodov-Sardorbek&theme=dark&background=000000)](https://git.io/streak-stats) | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-contribution-stats/"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Tukhtamurodov-Sardorbek" /></a> | </p>
 | ------------- | ------------- |
 
 <!--
