@@ -47,8 +47,6 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515)]()
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek" alt="Tukhtamurodov-Sardorbek" /></a> </p>
-
 | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tukhtamurodov-Sardorbek&show_icons=true&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&include_all_commits=true&theme=buefy&hide_border=true" alt="Tukhtamurodov Sardorbek's GitHub Stats" /></a> | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tukhtamurodov-Sardorbek&layout=compact&hide=html&title_color=04ff00&icon_color=04ff00&text_color=ffffff&bg_color=151515&&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -72,7 +70,12 @@
 <img align="left" alt=“Github” width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-activity-graph"><img alt="Tukhtamurodov Sardorbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Tukhtamurodov-Sardorbek&bg_color=151515&color=e6f9ff&line=22feff&point=acdafe" /></a>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek" alt="Tukhtamurodov-Sardorbek" /></a> </p>
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ### `Languages & Tools`
