@@ -71,12 +71,10 @@
 
 <a href="https://github.com/Tukhtamurodov-Sardorbek/github-readme-activity-graph"><img alt="Tukhtamurodov Sardorbek's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=Tukhtamurodov-Sardorbek&bg_color=151515&color=e6f9ff&line=22feff&point=acdafe" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek" alt="Tukhtamurodov-Sardorbek" /></a> </p>
+
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a> </p>
 
 ### `Languages & Tools`
 <img src="https://skillicons.dev/icons?i=cpp,dart,flutter,firebase,github,gitlab" title="C++, Dart, Flutter, Firebase, GitHub, Gitlab" alt="C++, Dart, Flutter, Firebase, GitHub, Gitlab" /> 
