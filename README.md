@@ -37,6 +37,8 @@
 
 <!--
 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a>
+
 ![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Tukhtamurodov-Sardorbek-visitors&color=02b200&style=for-the-badge&logo=Github)                           ![GitHub followers](https://img.shields.io/github/followers/Tukhtamurodov-Sardorbek?logo=GitHub&style=for-the-badge&color=02b200)
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -53,7 +55,6 @@
 | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tukhtamurodov-Sardorbek&theme=dark&background=000000)](https://git.io/streak-stats) | <a href="https://github.com/Tukhtamurodov-Sardorbek/github-contribution-stats/"><img align="center" src="https://github-contribution-stats.vercel.app/api/?username=Tukhtamurodov-Sardorbek" /></a> |
 | ------------- | ------------- |
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a>
 
 <!--
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Tukhtamurodov-Sardorbek&theme=dark&background=000000)](https://git.io/streak-stats)        
