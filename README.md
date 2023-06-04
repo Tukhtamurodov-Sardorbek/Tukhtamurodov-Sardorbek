@@ -78,5 +78,5 @@
 -->
 
 ### `Languages & Tools`
-<img src="https://skillicons.dev/icons?i=cpp,dart,flutter,firebase,github,gitlab" title="C++, Dart, Flutter, Firebase, GitHub, Gitlab" alt="C++, Dart, Flutter, Firebase, GitHub, Gitlab" /> 
+<img src="https://skillicons.dev/icons?i=cpp,dart,flutter,firebase,github,gitlab, swift" title="C++, Dart, Flutter, Firebase, GitHub, Gitlab, Swift" alt="C++, Dart, Flutter, Firebase, GitHub, Gitlab, Swift" /> 
 
