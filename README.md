@@ -1,4 +1,4 @@
-![Flutter](https://github.com/Tukhtamurodov-Sardorbek/Tukhtamurodov-Sardorbek/blob/main/flutter.jpg?raw=true)
+<!--![Flutter](https://github.com/Tukhtamurodov-Sardorbek/Tukhtamurodov-Sardorbek/blob/main/flutter.jpg?raw=true)
 <h1></h1>
 
 
@@ -34,7 +34,7 @@
 </details></h4>
 
 <br/>
-
+-->
 <!--
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=Tukhtamurodov-Sardorbek&theme=onedark" alt="Tukhtamurodov-Sardorbek" /></a>
